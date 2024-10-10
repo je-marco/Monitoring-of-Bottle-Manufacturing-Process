@@ -9,7 +9,7 @@ This is an interactive dashboard that I made while taking the **Coursera's IBM D
 * Check [this google drive file](https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit?usp=sharing) for the documentaton.
 
 ### Preview of the Dashboard: Monitor Bottle Manufacturing
-![Screenshot (1397)](https://github.com/je-marco/Porfolio_Project/assets/142670148/54e94441-d49f-41b5-a578-85b7d5b8cc73)
+![Overview](https://github.com/je-marco/Monitoring-of-Bottle-Manufacturing-Process/blob/66aac4f2631eb16304f24c12be50fb961a08e7d6/1_overview.png)
 
 ![Screenshot (1398)](https://github.com/je-marco/Porfolio_Project/assets/142670148/d35663e6-4eb0-4246-abbe-f9cfd79d28bf)
 
