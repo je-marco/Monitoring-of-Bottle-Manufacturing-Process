@@ -11,8 +11,8 @@ This is an interactive dashboard that I made while taking the **Coursera's IBM D
 ### Preview of the Dashboard: Monitor Bottle Manufacturing
 ![Overview](https://github.com/je-marco/Monitoring-of-Bottle-Manufacturing-Process/blob/66aac4f2631eb16304f24c12be50fb961a08e7d6/1_overview.png)
 
-![Screenshot (1398)](https://github.com/je-marco/Porfolio_Project/assets/142670148/d35663e6-4eb0-4246-abbe-f9cfd79d28bf)
+![Machine](https://github.com/je-marco/Monitoring-of-Bottle-Manufacturing-Process/blob/66aac4f2631eb16304f24c12be50fb961a08e7d6/2_by_machine.png)
 
-![Screenshot (1399)](https://github.com/je-marco/Porfolio_Project/assets/142670148/5e73317d-488e-40c9-8398-c5a532ff7702)
+![Quality](https://github.com/je-marco/Monitoring-of-Bottle-Manufacturing-Process/blob/66aac4f2631eb16304f24c12be50fb961a08e7d6/3_quality.png)
 
-![Screenshot (1400)](https://github.com/je-marco/Porfolio_Project/assets/142670148/1ed41e37-ee6d-4bb4-9723-f56cf8abdbaa)
+![Production](https://github.com/je-marco/Monitoring-of-Bottle-Manufacturing-Process/blob/66aac4f2631eb16304f24c12be50fb961a08e7d6/4_by_production.png)
